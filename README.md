@@ -1,2 +1,2 @@
 **Coding Profiles:**
-https://deceasedone.github.io/html-portfolio/
+https://deceasedone.github.io/hl-page/
